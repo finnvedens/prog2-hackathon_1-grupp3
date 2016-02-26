@@ -1,0 +1,6 @@
+c:\users\max\documents\visual studio 2015\Projects\SpaceQuest\SpaceQuest\bin\Debug\SpaceQuest.exe.config
+c:\users\max\documents\visual studio 2015\Projects\SpaceQuest\SpaceQuest\bin\Debug\SpaceQuest.exe
+c:\users\max\documents\visual studio 2015\Projects\SpaceQuest\SpaceQuest\bin\Debug\SpaceQuest.pdb
+c:\users\max\documents\visual studio 2015\Projects\SpaceQuest\SpaceQuest\obj\Debug\SpaceQuest.csprojResolveAssemblyReference.cache
+c:\users\max\documents\visual studio 2015\Projects\SpaceQuest\SpaceQuest\obj\Debug\SpaceQuest.exe
+c:\users\max\documents\visual studio 2015\Projects\SpaceQuest\SpaceQuest\obj\Debug\SpaceQuest.pdb
