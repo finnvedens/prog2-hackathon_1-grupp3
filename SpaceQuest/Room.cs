@@ -26,7 +26,7 @@ class Cockpit : Room
     public Cockpit(string name, int hzM) : base(name, hzM)
     {
     }
-<<<<<<< HEAD
+
 
     public void instruction()
     {
@@ -37,9 +37,6 @@ class Cockpit : Room
         Console.WriteLine("- Putin pulls the thruster lever and nothing happens it appears as the thruster is broken and the ship is still crashing down towards Corusant in the same speed as before.");
     }
 
-=======
-    
->>>>>>> origin/master
     public int brake(string choice)
     {
         if (choice == "pull brake")

@@ -14,3 +14,5 @@ C:\Users\Max\Dropbox\skola\Andrew\Hackathon\prog2-hackathon_1-grupp3\SpaceQuest\
 C:\Users\Max\Dropbox\skola\Andrew\Hackathon\prog2-hackathon_1-grupp3\SpaceQuest\obj\Debug\SpaceQuest.pdb
 >>>>>>> origin/master
 C:\Users\Sebastian\Documents\GitHub\prog2-hackathon_1-grupp3\SpaceQuest\obj\Debug\SpaceQuest.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian\Documents\GitHub\prog2-hackathon_1-grupp3\SpaceQuest\bin\Debug\SpaceQuest.exe
+C:\Users\Sebastian\Documents\GitHub\prog2-hackathon_1-grupp3\SpaceQuest\bin\Debug\SpaceQuest.pdb
