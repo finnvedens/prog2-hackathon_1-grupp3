@@ -11,6 +11,7 @@ class Room
         this.name = name;
         this.hzM = hzM;
     }
+    //Funktion för att returnera hur mycket liv spelaren har
     virtual public int die()
     {
         if (life <= 0)
@@ -25,6 +26,7 @@ class Cockpit : Room
     public Cockpit(string name, int hzM) : base(name, hzM)
     {
     }
+<<<<<<< HEAD
 
     public void instruction()
     {
@@ -35,6 +37,9 @@ class Cockpit : Room
         Console.WriteLine("- Putin pulls the thruster lever and nothing happens it appears as the thruster is broken and the ship is still crashing down towards Corusant in the same speed as before.");
     }
 
+=======
+    
+>>>>>>> origin/master
     public int brake(string choice)
     {
         if (choice == "pull brake")
@@ -42,6 +47,7 @@ class Cockpit : Room
             Console.WriteLine("Success");
             return life;
         }
+        //Om spelaren gör fel val minskar livet med rummets hzM som faktor
         else
         {
             return life -= 10 * hzM;

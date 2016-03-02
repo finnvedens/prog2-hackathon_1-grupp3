@@ -4,6 +4,13 @@ c:\users\max\documents\visual studio 2015\Projects\SpaceQuest\SpaceQuest\bin\Deb
 c:\users\max\documents\visual studio 2015\Projects\SpaceQuest\SpaceQuest\obj\Debug\SpaceQuest.csprojResolveAssemblyReference.cache
 c:\users\max\documents\visual studio 2015\Projects\SpaceQuest\SpaceQuest\obj\Debug\SpaceQuest.exe
 c:\users\max\documents\visual studio 2015\Projects\SpaceQuest\SpaceQuest\obj\Debug\SpaceQuest.pdb
+<<<<<<< HEAD
 C:\Users\Sebastian\Documents\GitHub\prog2-hackathon_1-grupp3\SpaceQuest\bin\Debug\SpaceQuest.exe.config
 C:\Users\Sebastian\Documents\GitHub\prog2-hackathon_1-grupp3\SpaceQuest\obj\Debug\SpaceQuest.exe
 C:\Users\Sebastian\Documents\GitHub\prog2-hackathon_1-grupp3\SpaceQuest\obj\Debug\SpaceQuest.pdb
+=======
+C:\Users\Max\Dropbox\skola\Andrew\Hackathon\prog2-hackathon_1-grupp3\SpaceQuest\bin\Debug\SpaceQuest.exe.config
+C:\Users\Max\Dropbox\skola\Andrew\Hackathon\prog2-hackathon_1-grupp3\SpaceQuest\obj\Debug\SpaceQuest.exe
+C:\Users\Max\Dropbox\skola\Andrew\Hackathon\prog2-hackathon_1-grupp3\SpaceQuest\obj\Debug\SpaceQuest.pdb
+>>>>>>> origin/master
+C:\Users\Sebastian\Documents\GitHub\prog2-hackathon_1-grupp3\SpaceQuest\obj\Debug\SpaceQuest.csprojResolveAssemblyReference.cache
