@@ -29,7 +29,7 @@ class Cockpit : Room
     public void instruction()
     {
         Console.WriteLine("Putin wakes up in the cockpit after being unconsious after being hit by the astroid.");
-        Console.WriteLine("He sees that his ship is heading towards Corusant in full speed, he needs to slow down his spaceship.");
+        Console.WriteLine("He sees that his ship is heading towards Coruscant in full speed, he needs to slow down his spaceship.");
         Console.WriteLine("infront of him there are two levers, the right one is the brake and the one to the left is the thruster");
         Console.WriteLine("- Putin Pulls the break lever and the ships speed decreases and he has more time to save the ship.");
         Console.WriteLine("- Putin pulls the thruster lever and nothing happens it appears as the thruster is broken and the ship is still crashing down towards Corusant in the same speed as before.");
