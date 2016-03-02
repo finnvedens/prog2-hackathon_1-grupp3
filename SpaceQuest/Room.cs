@@ -27,7 +27,6 @@ class Cockpit : Room
     {
     }
 
-
     public void instruction()
     {
         Console.WriteLine("Putin wakes up in the cockpit after being unconsious after being hit by the astroid.");
@@ -36,7 +35,6 @@ class Cockpit : Room
         Console.WriteLine("- Putin Pulls the break lever and the ships speed decreases and he has more time to save the ship.");
         Console.WriteLine("- Putin pulls the thruster lever and nothing happens it appears as the thruster is broken and the ship is still crashing down towards Corusant in the same speed as before.");
     }
-
     public int brake(string choice)
     {
         if (choice == "pull brake")
