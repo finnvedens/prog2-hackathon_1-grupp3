@@ -86,9 +86,9 @@ class EscapePod : Room
 
     }
 
-    //SKa alltid kunna rymma till escapepod - Game over - Chicken out - Putin överlever - Strippklubb förstörs
+    //Ska alltid kunna rymma till escapepod - Game over - Chicken out - Putin överlever - Strippklubb förstörs
     public void eject()
     {
-        Console.WriteLine("You bail out, just as a scared bantha cub. No glory was won this day. The stripclub burn down and your mission failed. ");
+        Console.WriteLine("You bail out, just as a scared bantha cub. No glory was won this day. The stripclub burn down and your mission failed.");
     }
 }
